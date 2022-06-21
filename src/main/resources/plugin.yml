@@ -1,0 +1,10 @@
+name: ModelEngineTest
+version: '${version}'
+main: tororo1066.modelenginetest.ModelEngineTest
+api-version: 1.17
+
+depend:
+  - ModelEngine
+
+commands:
+  metest:
